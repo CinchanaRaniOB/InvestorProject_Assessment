@@ -1,0 +1,16 @@
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.AssemblyReference.cache
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfoInputs.cache
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.AssemblyInfo.cs
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CoreCompileInputs.cache
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.deps.json
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.dll
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Core.pdb
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.csproj.CopyComplete
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.dll
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.pdb
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.runtimeconfig.json
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\bin\Debug\netcoreapp3.1\Lib.Service.runtimeconfig.dev.json
+C:\Users\cob2\source\repos\InvestorWebConsume\Lib.Service\obj\Debug\netcoreapp3.1\Lib.Service.genruntimeconfig.cache
